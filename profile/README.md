@@ -11,7 +11,7 @@
 └── klangstrom-tools
 ```
 
-## klangstrom-arduino
+## [klangstrom-arduino](https://github.com/klangstrom/klangstrom-arduino)
 
 ```sh
 klangstrom-arduino
@@ -34,9 +34,9 @@ klangstrom-arduino
 
 contains libraries and hardware ( i.e *board* ) definitions for *Arduino IDE* and `arduino-cli`.
 
-## klangstrom-libraries
+## [klangstrom-libraries](https://github.com/klangstrom/klangstrom-libraries)
 
-[klangstrom-libraries](https://github.com/klangstrom/klangstrom-libraries) contains a series of libraries that are mostly but not exclusively used by the *Arduino IDE* or `arduino-cli`.
+contains a series of libraries that are mostly but not exclusively used by the *Arduino IDE* or `arduino-cli`.
 
 *klangstrom-libraries* are used ( as git *subtree* ) in the repositories *klangstrom-hardware* and *klangstrom-arduino*.
 
@@ -95,7 +95,7 @@ USB host library for STM32H7 devices. in USB terminology a *host* allows *device
 - mouse
 - MIDI
 
-## klangstrom-hardware
+## [klangstrom-hardware](https://github.com/klangstrom/klangstrom-hardware)
 
 ```sh
 klangstrom-hardware
@@ -111,9 +111,11 @@ contains the hardware design file ( KiCad ) for *Printed-Circuit Board* (PCB) pr
 
 ⚠️ this repository is set to *private*, but access is granted on request. ⚠️
 
-## klangstrom-tools
+## [klangstrom-tools](https://github.com/klangstrom/klangstrom-tools)
 
 contains a set of tools used for development.
+
+---
 
 ## Developer Notes
 
